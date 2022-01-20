@@ -28,7 +28,7 @@ print(receita.items())
 # Desempacotamendo de dicionários
 for chave, valor in receita.items():
     print(f'Chave={chave} e valor={valor}')
-"""
+
 receita = {'jan': 100, 'fev': 250, 'mar': 400}
 
 # Soma, valor maximo, valor minimo, Tamanho
@@ -38,3 +38,4 @@ print(sum(receita.values()))
 print(max(receita.values()))
 print(min(receita.values()))
 print(len(receita))
+"""
