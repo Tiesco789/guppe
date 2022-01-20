@@ -196,5 +196,4 @@ print(veja)
 
 veja = {}.fromkeys(range(1, 11), 'novo')
 print(veja)
-
 """
