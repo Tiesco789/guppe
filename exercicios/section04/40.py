@@ -4,4 +4,5 @@
 valorDia = 30.00
 diasTrabalhado = float(input("Quantos dias o encanador trabalho: "))
 calc = valorDia * diasTrabalhado * 0.92
-print(f"Valor a ser pago: R${res:.2f}")
+print(f"O Salário recebido é de: R${calc:.2f}")
+9
